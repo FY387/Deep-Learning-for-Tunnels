@@ -4,8 +4,11 @@ In this repository, the datasets for metro tunnel lining image classification an
 
 # Contents
 A metro tunnel lining image classification dataset
+
 Image classification algorithms and model weights files generated from classification experiments
-A metro tunnel lining multi-defect dataset for object detection 
+
+A metro tunnel lining multi-defect dataset for object detection
+
 Object detection algorithms and model weights files generated from object detection experiments
 
 # Dataset 1 - Metro tunnel lining image classification dataset
