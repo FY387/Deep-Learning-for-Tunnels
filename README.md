@@ -33,4 +33,4 @@ The model generalization experiment in this research was conducted based on some
 [1]https://doi.org/10.1109/ICIP40778.2020.9190900
 [2]https://doi.org/10.1016/j.tust.2023.105428
 [3]https://doi.org/10.1016/j.tust.2020.103524
-Based on the original images, our research team has made labels in VOC format to evaluate the performance of the classification model and the target detection model. The dataset can be downloaded from the link 
+Based on the original images, our research team has made labels in VOC format to evaluate the performance of the classification model and the target detection model. The dataset can be downloaded from the link https://pan.baidu.com/s/1y5v4Ihpn9LFNQiSkLfdAKw. Password is 1h20. 
