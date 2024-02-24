@@ -13,7 +13,8 @@ A metro tunnel lining multi-defect dataset for object detection
 Object detection algorithms and model weights files generated from object detection experiments
 
 # Dataset 1 - Metro tunnel lining image classification dataset
-The dataset can be download from https://pan.baidu.com/s/1wD-XEHMQ8uXxJMpPNfKAKQ. Password is 3lyt. 
+This dataset consists of defect-free images and defective images of metro tunnel lining, which can be download from https://pan.baidu.com/s/1wD-XEHMQ8uXxJMpPNfKAKQ.
+Password is 3lyt. 
 
 # Algorithm 1 - Tunnel lining image classification network (TLCNet)
 The source code for TLCNet is placed in the folder named TLCNet-main.
@@ -21,7 +22,8 @@ The relevant model weight files can be downloaded from https://pan.baidu.com/s/1
 Password: 6ui4.
 
 # Dataset 2 - Metro tunnel lining multi-defect dataset for object detection
-The dataset can be download from https://pan.baidu.com/s/1ph7havsMRFy3EABhKiSV4Q. Password is 728j. 
+This dataset consists of original metro tunnel lining defective images and accurate labels, which can be download from https://pan.baidu.com/s/1ph7havsMRFy3EABhKiSV4Q.
+Password is 728j. 
 
 # Algorithm 2 - Tunnel lining defect detection network (TDDNet)
 The source code for TDDNet is placed in the folder named TDDNet-main.
