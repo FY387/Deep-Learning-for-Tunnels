@@ -1,5 +1,6 @@
 # A two-step deep learning-based framework for metro tunnel lining defect recognition
 Aiming to quickly, accurately, and automatically recognize various defects (leakage, crack, spalling) from massive metro tunnel lining image data, a two-step deep learning-based framework is proposed.
+![image](https://github.com/FY387/Deep-Learning-for-Tunnels/blob/main/Graphical%20Abstract.jpg)
 In this repository, the datasets for metro tunnel lining image classification and multi-defect detection are shared for further research. Meanwhile, the algorithms proposed in the paper and related weight files are also shared.
 
 # Contents
