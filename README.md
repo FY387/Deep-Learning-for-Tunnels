@@ -38,12 +38,12 @@ The model generalization experiment in this research was conducted based on some
 Based on the original images, our research team has made labels in VOC format to evaluate the performance of the classification model and the target detection model. The dataset can be downloaded from the link https://pan.baidu.com/s/1y5v4Ihpn9LFNQiSkLfdAKw. Password is 1h20.
 
 # Citation
-Yong Feng, Shi-Jin Feng, Xiao-Lei Zhang, Dong-Mei Zhang, Yong Zhao
-A two-step deep learning-based framework for metro tunnel lining defect recognition
-Tunnelling and Underground Space Technology
-Volume 150
-2024
-105832
-ISSN 0886-7798
-https://doi.org/10.1016/j.tust.2024.105832.
-(https://www.sciencedirect.com/science/article/pii/S0886779824002505)
+Yong Feng, Shi-Jin Feng, Xiao-Lei Zhang, Dong-Mei Zhang, Yong Zhao  
+A two-step deep learning-based framework for metro tunnel lining defect recognition  
+Tunnelling and Underground Space Technology  
+Volume 150  
+2024  
+105832  
+ISSN 0886-7798  
+https://doi.org/10.1016/j.tust.2024.105832.  
+https://www.sciencedirect.com/science/article/pii/S0886779824002505
