@@ -45,5 +45,5 @@ Volume 150
 2024  
 105832  
 ISSN 0886-7798  
-https://doi.org/10.1016/j.tust.2024.105832.  
+https://doi.org/10.1016/j.tust.2024.105832  
 https://www.sciencedirect.com/science/article/pii/S0886779824002505
